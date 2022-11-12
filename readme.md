@@ -51,3 +51,5 @@ cd ensembl-vep-105.0
 ```
 
 #### Teste do comando 
+
+Testar a instalação do vep, executando o script ./vep
